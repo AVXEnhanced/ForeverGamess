@@ -1,6 +1,15 @@
 
 var sitename = "ForeverGamess"; 
-var subtext = "Development Beta"; 
+var subtext = "v1.0"; 
+
+
+
+
+// spacing i guess
+
+
+
+
 
 import "/./config/custom.js";
 
